@@ -30,6 +30,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
+<img src="https://i.imgur.com/GtsS0al.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  End Users osTicket URL: http://localhost/osTicket/ <br>
+  Let's practice creating a ticket as a customer.
+</p>
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
