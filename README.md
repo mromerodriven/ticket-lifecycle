@@ -50,14 +50,34 @@ Log in as one of the agents and observe the tickets currently open. <br>
 <p>
 Upon opening this first ticket, I updated the Priority to Emergency since this appears to be a high business impacting event. Also, I've assigned the ticket to Jane Doe. Lastly, I've updated the SLA plan to SEV-A due to the level of urgency needed here. <br>
 <br>
-As I review ticket, I make updates where needed and leave notes where applicable.
+As I review tickets, I make updates where needed and leave notes where applicable.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MwMxMTr.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As I make changes, you can see the reporting being recorded in the ticket.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oOqK15b.png" height="80%" width="80%"/>
+</p>
+<p>
+Back on the dashboard, this is how the tickets now appear.<br>
+Next, we'll go back into the ticket and mark it complete.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3IEfcbM.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/350jdse.png" height="80%" width="80%"/>
+</p>
+<p>
+Now that we've found a solution for the ticket, the ticket is closed.
 </p>
 <br />
