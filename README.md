@@ -45,10 +45,12 @@ Log in as one of the agents and observe the tickets currently open. <br>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/RRAIdXE.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Upon opening this first ticket, I updated the Priority to Emergency since this appears to be a high business impacting event. Also, I've assigned the ticket to Jane Doe. Lastly, I've updated the SLA plan to SEV-A due to the level of urgency needed here. <br>
+<br>
+As I review ticket, I make updates where needed and leave notes where applicable.
 </p>
 <br />
 
